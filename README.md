@@ -12,4 +12,14 @@
     - Draw
 
 ## How the AI Works
+  The computer uses the **Minimax algorithm**, a recursive strategy used in decision-making for two-player games:
+
+  - **Maximizing Player:** The AI (X) tries to maximize its chance of winning.
+  - **Minimizing Player:** The Human (O) tries to minimize the AI's chance of winning.
+  - The AI evaluates all possible board states and chooses the one with the highest score:
+    - `+1` for AI win
+    - `-1` for player win
+    - `0` for draw
+
+
   
