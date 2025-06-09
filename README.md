@@ -4,7 +4,7 @@
 ## Features
   - Classic 3x3 Tic-Tac-Toe board.
   - Player vs Computer gameplay.
-  - Computer uses the **Minimax algorithm** for unbeatable strategy.
+  - Computer uses the **Minimax algorithm** for unbeatable strategy. 
   - Randomized first move (Player or Computer).
   - Game ends with clear output for:
     - Player win
